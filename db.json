@@ -4,7 +4,6 @@
       "id": 1,
       "title": "Do Laundry",
       "content": "Wash, dry, and fold",
-      "author": "testuser",
       "complete": false,
       "completedOn": null
     },
@@ -12,7 +11,6 @@
       "id": 2,
       "title": "Pay Bills",
       "content": "Car, Electric, Gas",
-      "author": "testuser",
       "complete": false,
       "completedOn": null
     }
